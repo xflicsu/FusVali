@@ -1,2 +1,3 @@
-# fusion-validation
-Prepare transcripts sequence from fusion result (fusionCatcher)
+# FusVali
+Visualize fusion results of fusionCatcher with R package chimeraviz
+Prepare transcripts sequence for fusionCatcher
