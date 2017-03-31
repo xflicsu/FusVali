@@ -165,4 +165,3 @@ R CMD BATCH $dir/$e[0]/plot.N.R
 R CMD BATCH $dir/$e[0]/plot.T.R
 " >$dir/$e[0]/$e[0].sh;qsub $dir/$e[0]/$e[0].sh`;
 }
-
